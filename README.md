@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Gazprombank as a fullstack developer<br>🌱 I’m currently learning Go, Rust, Angular to make powerful and fast services and apps with modern beautiful design<br>⚡ 한식 먹어보고 싶어
+🔭 I’m currently working at V4Scale as a python backend developer<br>
 
 
 ## 🌐 Socials:
